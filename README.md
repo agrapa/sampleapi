@@ -22,16 +22,6 @@ Response: the area of the square as a json structure
 URL: https://localhost:8000/ellipse/{width}/{height}/area (GET)
 Response: the area of the ellipse as a json structure
 
-## Trying it out
-
-Pre-requisite:
-
-docker: https://docs.docker.com/install/
-
-3. make build
-
-The executable is deposited into the `dist` folder.
-
 ## Building the docker image
 
 Pre-requisite:
